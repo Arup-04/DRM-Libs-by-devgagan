@@ -1,4 +1,4 @@
-# AMAZON DL  
+# AMZN DL  
 
 **Disclaimer:** This repository is intended solely for educational purposes to help individuals understand encryption and decryption techniques. None of the content here is created or written by us; it has been collected from public resources on the internet.  
 
