@@ -1,0 +1,108 @@
+{
+    "refresh_token": "REPLACE_WITH_REFRESH_TOKEN",
+    "access_token": "REPLACE_WITH_ACCESS_TOKEN",
+    "cookies": "REPLACE_WITH_COOKIES",
+    "device_serial": "REPLACE_WITH_DEVICE_SERIAL",
+    "device_type": "REPLACE_WITH_DEVICE_TYPE",
+    "expire_in": 1622857693,
+    "params": {
+        "public_code": "REPLACE_WITH_PUBLIC_CODE",
+        "private_code": "REPLACE_WITH_PRIVATE_CODE",
+        "domain": "com",
+        "region": "ps",
+        "ANDROID_REGISTRATION": {
+            "domain": "Device",
+            "app_name": "REPLACE_WITH_APP_NAME",
+            "app_version": "REPLACE_WITH_APP_VERSION",
+            "device_model": "REPLACE_WITH_DEVICE_MODEL",
+            "os_version": "REPLACE_WITH_OS_VERSION",
+            "device_type": "REPLACE_WITH_DEVICE_TYPE",
+            "device_serial": "REPLACE_WITH_DEVICE_SERIAL",
+            "device_name": "REPLACE_WITH_DEVICE_NAME",
+            "software_version": "REPLACE_WITH_SOFTWARE_VERSION"
+        }
+    },
+    "RESPONSE": {
+        "response": {
+            "success": {
+                "extensions": {
+                    "device_info": {
+                        "device_name": "REPLACE_WITH_DEVICE_NAME",
+                        "device_serial_number": "REPLACE_WITH_DEVICE_SERIAL_NUMBER",
+                        "device_type": "REPLACE_WITH_DEVICE_TYPE"
+                    },
+                    "customer_info": {
+                        "account_pool": "REPLACE_WITH_ACCOUNT_POOL",
+                        "user_id": "REPLACE_WITH_USER_ID",
+                        "home_region": "REPLACE_WITH_HOME_REGION",
+                        "name": "REPLACE_WITH_NAME",
+                        "given_name": "REPLACE_WITH_GIVEN_NAME"
+                    }
+                },
+                "tokens": {
+                    "website_cookies": [
+                        {
+                            "Path": "/",
+                            "Secure": "true",
+                            "Value": "REPLACE_WITH_VALUE",
+                            "Expires": "REPLACE_WITH_EXPIRE_DATE",
+                            "Domain": ".amazon.com",
+                            "HttpOnly": "false",
+                            "Name": "session-id"
+                        },
+                        {
+                            "Path": "/",
+                            "Secure": "true",
+                            "Value": "REPLACE_WITH_VALUE",
+                            "Expires": "REPLACE_WITH_EXPIRE_DATE",
+                            "Domain": ".amazon.com",
+                            "HttpOnly": "false",
+                            "Name": "ubid-main"
+                        },
+                        {
+                            "Path": "/",
+                            "Secure": "true",
+                            "Value": "REPLACE_WITH_VALUE",
+                            "Expires": "REPLACE_WITH_EXPIRE_DATE",
+                            "Domain": ".amazon.com",
+                            "HttpOnly": "false",
+                            "Name": "x-main"
+                        },
+                        {
+                            "Path": "/",
+                            "Secure": "true",
+                            "Value": "REPLACE_WITH_VALUE",
+                            "Expires": "REPLACE_WITH_EXPIRE_DATE",
+                            "Domain": ".amazon.com",
+                            "HttpOnly": "true",
+                            "Name": "at-main"
+                        },
+                        {
+                            "Path": "/",
+                            "Secure": "true",
+                            "Value": "REPLACE_WITH_VALUE",
+                            "Expires": "REPLACE_WITH_EXPIRE_DATE",
+                            "Domain": ".amazon.com",
+                            "HttpOnly": "true",
+                            "Name": "sess-at-main"
+                        }
+                    ],
+                    "store_authentication_cookie": {
+                        "cookie": "REPLACE_WITH_COOKIE"
+                    },
+                    "mac_dms": {
+                        "device_private_key": "REPLACE_WITH_PRIVATE_KEY",
+                        "adp_token": "REPLACE_WITH_ADP_TOKEN"
+                    },
+                    "bearer": {
+                        "access_token": "REPLACE_WITH_ACCESS_TOKEN",
+                        "refresh_token": "REPLACE_WITH_REFRESH_TOKEN",
+                        "expires_in": "3600"
+                    }
+                },
+                "customer_id": "REPLACE_WITH_CUSTOMER_ID"
+            }
+        },
+        "request_id": "REPLACE_WITH_REQUEST_ID"
+    }
+}
