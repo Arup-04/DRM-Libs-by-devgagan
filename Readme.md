@@ -30,4 +30,4 @@ Bahut kuchh .....
 
 join me on telegram for latest updates: 
 
-channel link - [CLICK HERE](https://t.me/devggn)
+channel link - [CLICK HERE](https://t.me/team_spy_pro)
