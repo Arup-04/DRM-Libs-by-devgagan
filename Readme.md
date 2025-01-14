@@ -2,7 +2,7 @@
 
 **Disclaimer:** This repository is for educational purposes only. It is intended to provide resources and knowledge about DRM (Digital Rights Management) technologies for research and learning. **By using or accessing this repository, you agree to take full responsibility for your actions and ensure compliance with all applicable laws and regulations in your jurisdiction.**  
 
-# GET FILES : https://t.me/save_restricted_content_bots/837
+# GET FILES : [CLICK HERE](https://t.me/save_restricted_content_bots/837)
 ## About  
 
 Welcome! I'm Gagan, and I upload a new DRM library folder every day, complete with detailed guides in PDF or README.md format.  
